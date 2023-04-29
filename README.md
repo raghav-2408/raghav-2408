@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Gadapa Raghavendra
-- 👀 I’m interested in Web Development, DSA
-- 🌱 I’m currently learning Python
-- 📫 How to reach me? 
+- 👀 I’m interested in Web Development, Python
+- 🌱 I’m currently learning Java
+- 📫 How to reach me?
+
 - Here's my Gmail : gadaparaghavendra24@gmail.com
 
 <!---
