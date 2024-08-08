@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gadapa Raghavendra</h1>
-<h3 align="center">A passionate Tech Enthusiast</h3>
+<h3 align="center">A Passionate Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-2408&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-2408" /> </p>
 
