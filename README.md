@@ -1,4 +1,8 @@
-<h1 align="center" color = "red">Hi 👋! My name is Gadapa Raghavendra<br>I'm a Passionate Tech Enthusiast  !</h1>
+<h1 align="center" style="color: red; font-family: 'Arial', sans-serif;">
+  Hi 👋! My name is Gadapa Raghavendra<br>
+  I'm a Passionate Tech Enthusiast!
+</h1>
+
 
 ###
 
