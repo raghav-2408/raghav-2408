@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Gadapa Raghavendra<br>I'm a Passionate Tech Enthusiast  !</h1>
+<h1 align="center" color = "red">Hi 👋! My name is Gadapa Raghavendra<br>I'm a Passionate Tech Enthusiast  !</h1>
 
 ###
 
